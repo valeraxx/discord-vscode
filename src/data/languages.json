@@ -61,6 +61,7 @@
 		{ "language": "xml", "image": "xml" },
 		{ "language": "xsl", "image": "xml" },
 		{ "language": "yaml", "image": "yaml" }
+		{ "language": "ValeraxC" "image": "ValeraxC"}
 	],
 	"KNOWN_EXTENSIONS": {
 		".ahk": { "image": "ahk" },
@@ -440,6 +441,7 @@
 		".wasm": { "image": "wasm" },
 		"/webpack(\\.dev|\\.development|\\.prod|\\.production)?\\.config(\\.babel)?\\.(js|jsx|coffee|ts|json|json5|yaml|yml)/i": {
 			"image": "webpack"
+		".vfw": { "image": "valerax" },
 		},
 		".xml": { "image": "xml" },
 		"/\\.ya?ml$/i": { "image": "yaml" },
